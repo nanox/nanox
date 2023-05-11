@@ -1,4 +1,6 @@
-### Hi there 👋
+![Metrics](./github-metrics.svg)
+
+### About me
 
 <!--
 **nanox/nanox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
